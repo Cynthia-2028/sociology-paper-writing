@@ -23,7 +23,7 @@ references/
   09-学术语言与风格.md
   10-写作流程.md
   11-期刊选择与投稿适配.md
-assets/templates/            # 10 个可直接复制填写的模板
+templates/                   # 10 个可直接复制填写的模板
 ```
 
 ## 核心方法

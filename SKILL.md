@@ -1,6 +1,6 @@
 ---
 name: sociology-paper-writing
-version: "1.1.0"
+version: "1.1.1"
 display_name: 社会学论文写作
 display_name_en: Sociology Paper Writing
 description: >-
@@ -45,7 +45,7 @@ description_en: >-
 | 11 | [期刊选择与投稿适配](references/11-期刊选择与投稿适配.md) | 先定期刊、IMRaD vs IBC、相关性三支柱 |
 
 ## 模板与清单
-- 各节可直接复制的模板见 `assets/templates/`（选题 / 标题 / 摘要 / 引言 / 文献综述 / 研究设计 / 实证分析 / 结论与讨论 / 写作流程 / 期刊选择）。
+- 各节可直接复制的模板见 `templates/`（选题 / 标题 / 摘要 / 引言 / 文献综述 / 研究设计 / 实证分析 / 结论与讨论 / 写作流程 / 期刊选择）。
 - 速查与逐节自检见 `cheatsheet.md`。
 
 ## 工作流建议（完整跑一遍时）
