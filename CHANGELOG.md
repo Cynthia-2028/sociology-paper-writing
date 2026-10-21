@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.1.3
+- **删除来源说明**：移除 SKILL.md 末尾「依据来源（17 份）」整段与「两处机读缺口」说明。
+- **去除轮次痕迹**：`cheatsheet.md` 第八节改为「进阶要点（先定期刊 / 结构 / 摘要 / 引言 / 结果）」；`references/01–09` 九处「## 增补：…」标题去掉「增补」前缀，正文内容不变。
+- 正文中的作者归属标签（彭玉生、张静、Machi、Becker、易莉、Strunk、Martín、Edwards、Kail 等）保留，方法出处仍可追溯。
+- README 同步去掉「标注依据来源」与目录说明中的「来源」字样。
+
 ## v1.1.1
 - **修复平台上传报错「目录层级超限」**：把 `assets/templates/*.md` 上移为 `templates/*.md`，全包现在只有两级目录（根文件 + `references/` + `templates/`），深度 = 2。
 - 同步改写 SKILL.md 与 references/01–11 中的 12 处路径引用；`name`/内容不变。

@@ -1,6 +1,6 @@
 ---
 name: sociology-paper-writing
-version: "1.1.1"
+version: "1.1.3"
 display_name: 社会学论文写作
 display_name_en: Sociology Paper Writing
 description: >-
@@ -70,9 +70,3 @@ description_en: >-
 
 ## Scope & Limits
 覆盖学术写作的"怎么写"（结构 / 逻辑 / 语言 / 流程 / 投稿适配）。**不替代**统计软件操作、文献数据库检索、查重，以及特定期刊的硬格式（那些用专门工具）。
-
-**依据来源（17 份）**：
-- 第一轮 12 份（桌面「社会学写作」）：彭玉生《洋八股与社会科学规范》、张静《社会学论文写作指南》、刘西川《实证论文写作八讲》、风笑天《看实例、学方法》、Machi & McEvoy《The Literature Review: Six Steps to Success》、Becker《Writing for Social Scientists》、Jones《Writing for Sociology Guide》、易莉《学术写作原来是这样》、Strunk《The Elements of Style》、两篇"如何读社科/定量期刊论文"、董晨宇《拆论文》。
-- 第二轮 5 份（桌面「新建文件夹」）：Martín《How to Write a Good Article》(Current Sociology)、Sage《Writing an article for Sociology》、Edwards《Writing in Sociology, 2e》、Kail & Kail《Effective Writing for Sociology》、史密斯-洛温 & 莫斯科维茨《社会学写作指南》。
-
-**如实说明两处机读缺口**：① 董晨宇《拆论文》因字体编码在本环境机读为乱码，其"拆解范文学写作"主题已由其余来源覆盖；② 史密斯-洛温《社会学写作指南》为纯扫描件（无文本层），已启动 OCR 补读，本轮补入前 4 份可读新源为主，OCR 完成后可再增补。

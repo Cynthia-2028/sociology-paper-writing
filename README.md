@@ -5,11 +5,11 @@
 > A section-by-section, hand-holding skill for writing sociology / social-science empirical papers — from research question to title, abstract, introduction, literature review, research design, empirical analysis, conclusion & discussion, plus journal fit and submission.
 
 ## 它解决什么
-本技能按论文环节拆成可单独调用的11个模块，每个模块都给出：**步骤 / 可复制模板 / 反模式 / 自检清单**，并标注依据来源。
+本技能按论文环节拆成可单独调用的11个模块，每个模块都给出：**步骤 / 可复制模板 / 反模式 / 自检清单**。
 
 ## 目录结构
 ```
-SKILL.md                     # 主编排器：骨架、章节索引、工作流、Gotchas、来源
+SKILL.md                     # 主编排器：骨架、章节索引、工作流、Gotchas
 cheatsheet.md                # 速查：洋八股、各节一句话+头号坑、Strunk 18 条、能量模型
 references/
   01-选题与研究问题.md
